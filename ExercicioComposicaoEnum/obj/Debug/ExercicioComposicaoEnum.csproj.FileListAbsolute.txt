@@ -1,0 +1,6 @@
+c:\users\brssantos\documents\visual studio 2013\Projects\ExercicioComposicaoEnum\ExercicioComposicaoEnum\bin\Debug\ExercicioComposicaoEnum.exe.config
+c:\users\brssantos\documents\visual studio 2013\Projects\ExercicioComposicaoEnum\ExercicioComposicaoEnum\bin\Debug\ExercicioComposicaoEnum.exe
+c:\users\brssantos\documents\visual studio 2013\Projects\ExercicioComposicaoEnum\ExercicioComposicaoEnum\bin\Debug\ExercicioComposicaoEnum.pdb
+c:\users\brssantos\documents\visual studio 2013\Projects\ExercicioComposicaoEnum\ExercicioComposicaoEnum\obj\Debug\ExercicioComposicaoEnum.csprojResolveAssemblyReference.cache
+c:\users\brssantos\documents\visual studio 2013\Projects\ExercicioComposicaoEnum\ExercicioComposicaoEnum\obj\Debug\ExercicioComposicaoEnum.exe
+c:\users\brssantos\documents\visual studio 2013\Projects\ExercicioComposicaoEnum\ExercicioComposicaoEnum\obj\Debug\ExercicioComposicaoEnum.pdb
