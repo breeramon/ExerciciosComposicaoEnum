@@ -33,7 +33,7 @@ namespace ExercicioComposicaoEnum
             Console.Write("How many contracts to this worker? ");
             int n = int.Parse(Console.ReadLine());
 
-            for (int i = 0; i < n; i++)
+            for (int i = 1; i <= n; i++)
             {
                 Console.WriteLine("Enter #{0} contract data", i);
 
